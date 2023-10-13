@@ -30,8 +30,8 @@ I use the stm32 and keil5 to develop a software piano and show little star or ca
 ### 表
 ![omote](https://github.com/KokoroSinx/electric_piano/blob/main/实物照片.png?raw=true)
 
-###裏
+### 裏
 ![ura](https://github.com/KokoroSinx/electric_piano/blob/main/实物照片%20(2).JPG?raw=true)
 
-###完成！
+### 完成！
 ![finish](https://github.com/KokoroSinx/electric_piano/blob/main/实物照片%20(1).JPG?raw=true)
