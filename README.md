@@ -35,3 +35,6 @@ I use the stm32 and keil5 to develop a software piano and show little star or ca
 
 ### 完成！
 ![finish](https://github.com/KokoroSinx/electric_piano/blob/main/实物照片%20(1).JPG?raw=true)
+
+## もう疲れかなぁ
+もう疲れよね
