@@ -9,6 +9,8 @@ I use the stm32 and keil5 to develop a software piano and show little star or ca
 ## 原理グラフ　電路
 まずは電路図からご説明行きたいと思います。
 ![取扱い書とPCB](https://github.com/KokoroSinx/electric_piano/blob/main/PDF格式的原理图和PCB.jpg?raw=true)
+[電路](https://github.com/KokoroSinx/electric_piano/blob/main/PDF格式的原理图和PCB2.jpg?raw=true)
+
 ## ソフトウェア　コード
 つぎのコードは、組み込みCプログラムで、ハードウェアデバイスを制御するためのものです。具体的には、次のタスクを実行します。
 
